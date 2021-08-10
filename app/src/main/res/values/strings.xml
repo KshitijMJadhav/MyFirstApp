@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="hello_message">Hello</string>
+    <string name="enter_name_tag">Enter Your Name</string>
+    <string name="nameInput">Name</string>
+    <string name="enterButton">Enter</string>
+    <string name="image">image</string>
+    <string name="string_image">image</string>
+    <string name="welcome_to_my_android_app">Welcome To My Android App</string>
+</resources>
